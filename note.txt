@@ -1,0 +1,9 @@
+PyQt5==5.15.9
+pyserial==3.5
+
+
+cara installnya 
+-tanpa virtual env
+-sudo apt-get update
+-sudo apt-get install qtcreator
+- sudo apt-get install -y qml-module-qtquick-extras
